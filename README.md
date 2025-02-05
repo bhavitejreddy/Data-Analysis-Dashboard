@@ -18,6 +18,7 @@ This project is an **Excel-based interactive dashboard** designed to analyze gro
 - **Average Sales per Item** – Revenue per item.
 - **Number of Items Sold** – Total count of products sold.
 
+
 ### **🔹 Product & Category Analysis:**
 - **Item Type Distribution** – Breakdown of sales by category.
 - **Sales by Fat Content** – Comparison of **Regular vs. Low-Fat** items.
@@ -57,3 +58,5 @@ This project is an **Excel-based interactive dashboard** designed to analyze gro
 - Improved proficiency in **Excel for data analytics**.
 - Enhanced understanding of **KPI tracking and visualization**.
 - Gained insights into **grocery sales trends and performance metrics**.
+
+- ![Screenshot 2025-02-05 151427](https://github.com/user-attachments/assets/13654fce-d160-4a81-8662-648eb36c50d6)
