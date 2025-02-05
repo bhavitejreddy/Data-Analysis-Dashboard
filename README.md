@@ -1,8 +1,6 @@
 # Data-Analysis-Dashboard
 I built an interactive Excel dashboard to analyze Blinkit grocery sales, using data cleaning, advanced Excel functions (VLOOKUP, INDEX-MATCH, SUMIFS), and pivot tables. I designed dynamic visualizations with slicers and filters to track sales trends, product performance, and outlet analysis, enhancing my data analysis and reporting skills. 
 
-# Dataset Used
-- a< href="https://github.com/bhavitejreddy/Data-Analysis-Dashboard/blob/main/Blinkit%20Grocery%20Dashboard.xlsx">Dataset</a>
 
 ## 📌 Project Overview
 This project is an **Excel-based interactive dashboard** designed to analyze grocery sales data from **Blinkit**. It provides insights into **sales performance, outlet trends, customer ratings, and product visibility** using advanced **Excel functions, pivot tables, and data visualizations**.
